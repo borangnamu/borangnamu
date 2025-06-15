@@ -145,8 +145,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ISTQB-Foundation_Level-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LabVIEW-CLD_Preparing-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Six_Sigma-Green_Belt_Preparing-yellow?style=for-the-badge"/>
-</p>
+<!--   <img src="https://img.shields.io/badge/Six_Sigma-Green_Belt_Preparing-yellow?style=for-the-badge"/>
+</p> -->
 
 ---
 
